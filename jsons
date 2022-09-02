@@ -1,0 +1,158 @@
+[
+  [
+    {
+      information: "Voltage",
+      data: "12V"
+    },
+    {
+      information: "Output",
+      data: "210A"
+    },
+    {
+      information: "Regulator",
+      data: "IR"
+    },
+    {
+      information: "Pulley Type",
+      data: "PVR6"
+    },
+    {
+      information: "Fan",
+      data: "IF"
+    },
+    {
+      information: "Transmission",
+      data: "Automatic"
+    },
+    {
+      information: "Rotation",
+      data: "CW"
+    },
+    {
+      information: "Fits",
+      data: "AUDI"
+    },
+    {
+      information: "Fuel",
+      data: "Mild Hybrid/Petrol/ Diesel"
+    },
+    {
+      information: "Weight",
+      data: "6kg"
+    },
+    {
+      information: "Add Info.",
+      data: "Starter Generator/ OE Unit"
+    }
+  ],
+  [
+    {
+      manufacturer: "AUDI",
+      oem: "06L903018F"
+    },
+    {
+      manufacturer: "AUDI",
+      oem: "06L903018H"
+    },
+    {
+      manufacturer: "ELSTOCK",
+      oem: "24-0009"
+    },
+    {
+      manufacturer: "LUCAS",
+      oem: "LRC00009"
+    },
+    {
+      manufacturer: "LUCAS",
+      oem: "LRC9"
+    },
+    {
+      manufacturer: "ROLLCO",
+      oem: "ASC009"
+    },
+    {
+      manufacturer: "ROLLCO",
+      oem: "ASC9"
+    },
+    {
+      manufacturer: "VALEO",
+      oem: "2723447B"
+    },
+    {
+      manufacturer: "VALEO",
+      oem: "IST60S061"
+    },
+    {
+      manufacturer: "VALEO",
+      oem: "IST60S031"
+    }
+  ],
+  [
+    {
+      make: "AUDI",
+      model: "A4 2.0 40TFSI AVANT B9 (8W) (2015-) DLVA",
+      cc: "1984ccm",
+      year: "2018-2021"
+    },
+    {
+      make: "AUDI",
+      model: "A4 2.0 TFSI 250 QUATTRO AVANT B9 (8W) (2015-) DDWA",
+      cc: "1984ccm",
+      year: "2017-2019"
+    },
+    {
+      make: "AUDI",
+      model: "A4 2.0 TFSI 250 QUATTRO B9 (8W) (2015-) DDWA",
+      cc: "1984ccm",
+      year: "2017-2019"
+    },
+    {
+      make: "AUDI",
+      model: "A5 2.0 TFSI B9 (F5) (2016-) DEMA",
+      cc: "1984ccm",
+      year: "2017-2019"
+    },
+    {
+      make: "AUDI",
+      model: "A5 2.0 TFSI B9 (F5) (2016-) DHDA",
+      cc: "1984ccm",
+      year: "2017-2019"
+    },
+    {
+      make: "AUDI",
+      model: "A5 2.0 TFSI QUATTRO B9 (F5) (2016-) DDWA",
+      cc: "1984ccm",
+      year: "2016-2019"
+    },
+    {
+      make: "AUDI",
+      model: "A6 2.0 45TFSI QUATTRO AVANT C8 (4A) (2018-) DMTA",
+      cc: "1984ccm",
+      year: "2020-ON"
+    },
+    {
+      make: "AUDI",
+      model: "A6 2.0 45TFSI QUATTRO C8 (4A) (2018-) DKNA",
+      cc: "1984ccm",
+      year: "2018-2021"
+    },
+    {
+      make: "AUDI",
+      model: "A6 2.0 45TFSI QUATTRO C8 (4A) (2018-) DMTA",
+      cc: "1984ccm",
+      year: "2020-ON"
+    },
+    {
+      make: "AUDI",
+      model: "A7 2.0 45TFSI QUATTRO C8 (4K) (2018-) DKNA",
+      cc: "1984ccm",
+      year: "2019-2021"
+    },
+    {
+      make: "AUDI",
+      model: "A7 2.0 45TFSI QUATTRO C8 (4K) (2018-) DMTA",
+      cc: "1984ccm",
+      year: "2020-ON"
+    }
+  ]
+]

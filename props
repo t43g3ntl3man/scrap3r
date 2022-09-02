@@ -1,0 +1,304 @@
+[
+  [
+    {
+      "information": "Voltage",
+      "data": "12V"
+    },
+    {
+      "information": "Output",
+      "data": "2.5Kw"
+    },
+    {
+      "information": "Transmission",
+      "data": "AT, Manual"
+    },
+    {
+      "information": "Position",
+      "data": "CW"
+    },
+    {
+      "information": "GR",
+      "data": "GR"
+    },
+    {
+      "information": "Teeth",
+      "data": "9T"
+    },
+    {
+      "information": "Weight",
+      "data": "5.60 Kg"
+    },
+    {
+      "information": "Add Info.",
+      "data": "VAN, Hitachi- Too big for some applications"
+    }
+  ],
+  [
+    {
+      "manufacturer": "HITACHI",
+      "oem": "S14-206A"
+    },
+    {
+      "manufacturer": "HITACHI",
+      "oem": "S14-206"
+    },
+    {
+      "manufacturer": "HITACHI",
+      "oem": "S13-327"
+    },
+    {
+      "manufacturer": "HITACHI",
+      "oem": "S14-205"
+    },
+    {
+      "manufacturer": "HITACHI",
+      "oem": "S14-205A"
+    },
+    {
+      "manufacturer": "HITACHI",
+      "oem": "S13-307A"
+    },
+    {
+      "manufacturer": "HITACHI",
+      "oem": "S13-307"
+    },
+    {
+      "manufacturer": "HITACHI",
+      "oem": "S13-127A"
+    },
+    {
+      "manufacturer": "HITACHI",
+      "oem": "S13-127C"
+    },
+    {
+      "manufacturer": "HITACHI",
+      "oem": "S13-127"
+    },
+    {
+      "manufacturer": "HITACHI",
+      "oem": "S13-107A"
+    },
+    {
+      "manufacturer": "HITACHI",
+      "oem": "S13-107"
+    },
+    {
+      "manufacturer": "HITACHI",
+      "oem": "S14206A"
+    },
+    {
+      "manufacturer": "HITACHI",
+      "oem": "S14206"
+    },
+    {
+      "manufacturer": "HITACHI",
+      "oem": "S13327"
+    },
+    {
+      "manufacturer": "HITACHI",
+      "oem": "S14205"
+    },
+    {
+      "manufacturer": "HITACHI",
+      "oem": "S14205A"
+    },
+    {
+      "manufacturer": "HITACHI",
+      "oem": "S13307A"
+    },
+    {
+      "manufacturer": "HITACHI",
+      "oem": "S13307"
+    },
+    {
+      "manufacturer": "HITACHI",
+      "oem": "S13127A"
+    },
+    {
+      "manufacturer": "HITACHI",
+      "oem": "S13127C"
+    },
+    {
+      "manufacturer": "HITACHI",
+      "oem": "S13127"
+    },
+    {
+      "manufacturer": "HITACHI",
+      "oem": "S13107A"
+    },
+    {
+      "manufacturer": "HITACHI",
+      "oem": "S13107"
+    },
+    {
+      "manufacturer": "LUCAS",
+      "oem": "LRS00727"
+    },
+    {
+      "manufacturer": "LUCAS",
+      "oem": "LRS727"
+    },
+    {
+      "manufacturer": "NISSAN",
+      "oem": "23300-65N00"
+    },
+    {
+      "manufacturer": "NISSAN",
+      "oem": "23300-10T02"
+    },
+    {
+      "manufacturer": "NISSAN",
+      "oem": "23300-1W400"
+    },
+    {
+      "manufacturer": "NISSAN",
+      "oem": "23300-3T700"
+    },
+    {
+      "manufacturer": "NISSAN",
+      "oem": "23300-02N00"
+    },
+    {
+      "manufacturer": "NISSAN",
+      "oem": "23300-6T000"
+    },
+    {
+      "manufacturer": "NISSAN",
+      "oem": "23300-6T001"
+    },
+    {
+      "manufacturer": "NISSAN",
+      "oem": "23300-80G01"
+    },
+    {
+      "manufacturer": "NISSAN",
+      "oem": "23300-58N00"
+    },
+    {
+      "manufacturer": "NISSAN",
+      "oem": "2330065N00"
+    },
+    {
+      "manufacturer": "NISSAN",
+      "oem": "2330010T02"
+    },
+    {
+      "manufacturer": "NISSAN",
+      "oem": "233001W400"
+    },
+    {
+      "manufacturer": "NISSAN",
+      "oem": "233003T700"
+    },
+    {
+      "manufacturer": "NISSAN",
+      "oem": "2330002N00"
+    },
+    {
+      "manufacturer": "NISSAN",
+      "oem": "233006T000"
+    },
+    {
+      "manufacturer": "NISSAN",
+      "oem": "233006T001"
+    },
+    {
+      "manufacturer": "NISSAN",
+      "oem": "2330080G01"
+    },
+    {
+      "manufacturer": "NISSAN",
+      "oem": "2330058N00"
+    },
+    {
+      "manufacturer": "RC",
+      "oem": "STM1501"
+    }
+  ],
+  [
+    {
+      "make": "NISSAN",
+      "model": "CABSTAR 2.3 F22 TD23 DIESEL MANUAL",
+      "cc": "2289ccm",
+      "year": "1987-1990"
+    },
+    {
+      "make": "NISSAN",
+      "model": "CABSTAR 2.5 F22 SD25 DIESEL MANUAL",
+      "cc": "2494ccm",
+      "year": "1989-1993"
+    },
+    {
+      "make": "NISSAN",
+      "model": "CABSTAR 2.5 F22 SD25 DIESEL MANUAL",
+      "cc": "2494ccm",
+      "year": "1993-2000"
+    },
+    {
+      "make": "NISSAN",
+      "model": "CABSTAR 2.7 E90 TD27T DIESEL MANUAL",
+      "cc": "2663ccm",
+      "year": "2000-2004"
+    },
+    {
+      "make": "NISSAN",
+      "model": "D21 2.5 1 TON TD25 DIESEL MANUAL",
+      "cc": "2494ccm",
+      "year": "1992-1998"
+    },
+    {
+      "make": "NISSAN",
+      "model": "TERRANO 2.7 D21 TD27TI DIESEL MANUAL",
+      "cc": "2663ccm",
+      "year": "1989-1991"
+    },
+    {
+      "make": "NISSAN",
+      "model": "TERRANO 2.7 TURBO D21 TD27TI DIESEL MANUAL",
+      "cc": "2663ccm",
+      "year": "1989-1995"
+    },
+    {
+      "make": "NISSAN",
+      "model": "TERRANO II 2.7 R20 TD27TI DIESEL AUTOMATIC",
+      "cc": "2664ccm",
+      "year": "1996-2000"
+    },
+    {
+      "make": "NISSAN",
+      "model": "TERRANO II 2.7 R20 TD27TI DIESEL AUTOMATIC",
+      "cc": "2664ccm",
+      "year": "2000-2002"
+    },
+    {
+      "make": "NISSAN",
+      "model": "TERRANO II 2.7 R20 TD27TI DIESEL MANUAL",
+      "cc": "2664ccm",
+      "year": "1996-2000"
+    },
+    {
+      "make": "NISSAN",
+      "model": "TERRANO II 2.7 R20 TD27TI DIESEL MANUAL",
+      "cc": "2664ccm",
+      "year": "1998-2006"
+    },
+    {
+      "make": "NISSAN",
+      "model": "TERRANO II 2.7 R20 TD27TI DIESEL MANUAL",
+      "cc": "2664ccm",
+      "year": "2000-2006"
+    },
+    {
+      "make": "NISSAN",
+      "model": "URVAN E23 2.5  DIESEL MANUAL",
+      "cc": "2488ccm",
+      "year": "1985-1987"
+    },
+    {
+      "make": "NISSAN",
+      "model": "URVAN E24 2.5 TD25 DIESEL MANUAL",
+      "cc": "2494ccm",
+      "year": "1989-1996"
+    }
+  ]
+]
